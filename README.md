@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://github.com/chandrikadeb7/chandrikadeb7/blob/master/readme.gif">
+  <img src="https://github.com/HariAcidReign/HariAcidReign/blob/master/hellothere.gif" width="500" />
 </p>
 
 ## Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=HariAcidReign alt=acidReign/></p>
 # # whoami :question: 
 I am Hariharan, goes by the username @HariAcidReign, in most of the places. 
 I am a Technology Enthusiast, Developer, and a Programming Geek  
@@ -26,26 +27,7 @@ I have a knack for coding Websites, working on Machine Learning models, developi
     As the old age saying goes: Your network is your net worth, and I don't plan on becoming poor<br>Let's connect 💬.
   </i><b>
   
-  <p align="center">
-    <a href="mailto:shivam.rathore010@gmail.com" alt="Gmail">
-      <img src="https://github.com/Shivam010/Shivam010/raw/master/icons/gmail.svg" alt="shivam.rathore010@gmail.com">
-    </a>
-  &nbsp;
-    <a href="https://github.com/Shivam010" alt="Github">
-      <img src="https://github.com/Shivam010/Shivam010/raw/master/icons/github.svg" alt="Github@Shivam010">
-    </a>
-  &nbsp;
-    <a href="https://www.linkedin.com/in/shivam010" alt="LinkedIn">
-      <img src="https://github.com/Shivam010/Shivam010/raw/master/icons/linkedin.svg" alt="LinkedIn@Shivam010">
-    </a>
-  &nbsp;
-    <a href="https://medium.com/@Shivam010" alt="Medium">
-      <img src="https://github.com/Shivam010/Shivam010/raw/master/icons/medium.svg" alt="Medium@Shivam010">
-    </a>
-  &nbsp;
-    <a href="https://www.hackerrank.com/Shivam010" alt="HackerRank">
-      <img src="https://github.com/Shivam010/Shivam010/raw/master/icons/hackerrank.svg" alt="HackerRank@Shivam010">
-    </a>
-  &nbsp;
-  </p>
+  :star: <code>[Mail](mailto:haran465@gmail.com)</code>    
+  :star: <code>[LinkedIn](https://www.linkedin.com/in/hariharan-balasubramanian-2a7607187/)</code>  
+  :star: <code>[HackerRank](https://www.hackerrank.com/HariAcidReign)</code>  
 </p>
