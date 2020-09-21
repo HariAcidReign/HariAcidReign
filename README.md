@@ -4,7 +4,9 @@
 
 ## Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=HariAcidReign alt=acidReign/></p>
-# # whoami :question: 
+
+## #whoami :question: 
+
 I am Hariharan, goes by the username @HariAcidReign, in most of the places. 
 I am a Technology Enthusiast, Developer, and a Programming Geek  
 who aims to work and contribute significantly in the field of Computer Science. :sparkles:
