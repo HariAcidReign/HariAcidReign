@@ -7,9 +7,9 @@
 
 ## #whoami :question: 
 
-I am Hariharan, goes by the username @HariAcidReign, in most of the places. 
-I am a Technology Enthusiast, Developer, and a Programming Geek  
-who aims to work and contribute significantly in the field of Computer Science. :sparkles:
+<p>I am Hariharan, goes by the username @HariAcidReign, in most of the places. </p>
+<p>I am a Technology Enthusiast, Developer, and a Programming Geek  
+who aims to work and contribute significantly in the field of Computer Science. :sparkles:<p>
 
 <p><strong><i>I strongly believe in fate and karma. Of all the million users on GitHub, you somehow landed on mine. That's truly something special</i></strong></p>
 <p><strong><i>I always strive to improve my weak points, no matter how many failures I've seen (quite a lot tbh 😄). That is my biggest MO. I keep pushing</i></strong></p>
