@@ -11,6 +11,9 @@
 <p>I am a Technology Enthusiast, Developer, and a Programming Geek  
 who aims to work and contribute significantly in the field of Computer Science. :sparkles:<p>
 
+<strong>I have a knack for coding websites, working on Machine Learning models, developing Mobile Apps, and I plan on doing freelancing and OpenSource soon. </strong>⚡
+
+
 <p><strong><i>I strongly believe in fate and karma. Of all the million users on GitHub, you somehow landed on mine. That's truly something special</i></strong></p>
 <p><strong><i>I always strive to improve my weak points, no matter how many failures I've seen (quite a lot tbh 😄). That is my biggest MO. I keep pushing</i></strong></p>
 
@@ -18,8 +21,6 @@ My Life so far :rocket:
 -----------
 I am doing my third year Bachelor's degree in Computer Science (B.Tech) at Amrita Vishwa Vidyapeetham, Coimbatore. 
 I do a lot of stuff beside coding like art, Classical Singing (trained for a decade(2004-2015)), Learning about Financial Stuff and Badminton 🌱
-
-I have a knack for coding Websites, working on Machine Learning models, developing Mobile Apps, and I plan on doing freelancing and OpenSource soon. ⚡
 
 ![]()
 ---
