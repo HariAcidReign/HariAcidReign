@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/HariAcidReign/HariAcidReign/blob/master/hellothere.gif" width="350" />
+  <img src="https://media2.giphy.com/media/b9lZgOAZDTO6jEc3wN/giphy.gif" width="350" />
 </p>
 
 ## Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
