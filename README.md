@@ -27,14 +27,14 @@ I do a lot of stuff beside coding like art, Classical Singing (trained for a dec
   </i> 
     <br/>
   
-  <a title="Instagram" href="https://instagram.com/cmcodes">
+  <a target="_blank" title="Instagram" href="https://www.instagram.com/harikaapi_right/">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Instagram-512.png" width="40" height="40" />
   </a>
   &ensp;
-  <a title="Email" href="mailto:cmcodes10@gmail.com">
+  <a target="_blank" title="Email" href="mailto:haran465@gmail.com">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="40" height="40" />
   </a> 
   &ensp;
-  <a title="LinkedIn" href="https://linkedin.com/in/cmcodes">
+  <a target="_blank" title="LinkedIn" href="https://www.linkedin.com/in/hariharan-balasubramanian-2a7607187/">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="40" height="40" />
 </p>
