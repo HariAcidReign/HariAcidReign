@@ -2,10 +2,11 @@
   <img src="https://media2.giphy.com/media/b9lZgOAZDTO6jEc3wN/giphy.gif" width="350" />
 </p>
 
-## Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=HariAcidReign alt=acidReign/></p>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=HariAcidReign alt=acidReign/> 
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+</p>
 
-## #whoami :question: 
+## #whoami :question:
 
 <p>I am Hariharan, goes by the username @HariAcidReign, in most of the places. </p>
 <p>I have a knack for coding websites, working on Machine Learning models, developing Mobile Apps, and I plan on doing freelancing and OpenSource soon⚡</p>
