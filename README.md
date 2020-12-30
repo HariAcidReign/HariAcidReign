@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hariharan ]</h1>
-<h3 align="center">A JavaScript fan ❤️ | MERN stack Developer 💻 | Loves React Native & Expo ⚛️ | Budding OpenSourcer ✅</h3>
+<h3 align="center">A JavaScript fan ❤️ | MERN stack Developer 💻 | Loves React Native & Expo ⚛️ | OpenSourcer ✅</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hariacidreign&label=Profile%20views&color=0e75b6&style=plastic" alt="hariacidreign" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hariacidreign&label=Profile%20views&color=0e75b6&style=plastic" alt="hariacidreign" /> </p>
 
 - 🔭 I’m currently working on [AutoDoc](https://github.com/HariAcidReign/AutoDoc)
 
-- 🌱 I’m currently learning **AWS, NextJS, Gatsby, GraphQL, WebGL, Grinding DSA on InterviewBit**
+- 🌱 I’m currently learning **AWS, NextJS, Gatsby, GraphQL, WebGL, Grinding DSA on <a href = "https://www.interviewbit.com/profile/HariAcidReign123">InterviewBit</a>**
 
 - 👯 I’m looking to collaborate on [Helping Hand](https://github.com/HariAcidReign/HelpingHand)
 
