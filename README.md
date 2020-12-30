@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hariharan ]</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">! I'm Hariharan</h1>
 <h3 align="center">A JavaScript fan ❤️ | MERN stack Developer 💻 | Loves React Native & Expo ⚛️ | OpenSourcer ✅</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hariacidreign&label=Profile%20views&color=0e75b6&style=plastic" alt="hariacidreign" /> </p>
