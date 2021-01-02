@@ -13,11 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Helping Hand](https://github.com/HariAcidReign/HelpingHand)
 
-- 🤝 I’m looking for help with [AutoDoc](https://github.com/HariAcidReign/AutoDoc)
-
 - 👨‍💻 Checkout my gorgeous (no, really 😂) [portfolio site ](https://hariacidreign.github.io/)
-
-- 📝 I regularly write articles on [-Medium links coming soon-](-Medium links coming soon-)
 
 - 💬 Ask me about **React, JavaScript, Keras, Tensorflow**
 
