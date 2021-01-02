@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [AutoDoc](https://github.com/HariAcidReign/AutoDoc)
 
-- 👨‍💻 All of my projects are available at [-portfolio site coming soon-](-portfolio site coming soon-)
+- 👨‍💻 Checkout my gorgeous (no, really 😂) [portfolio site ](https://hariacidreign.github.io/)
 
 - 📝 I regularly write articles on [-Medium links coming soon-](-Medium links coming soon-)
 
