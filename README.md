@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **haran465@gmail.com**
 
-- 📄 Know about my experiences [-Resume link coming soon-](-Resume link coming soon-)
+- 📄 Check out my resume [here](https://drive.google.com/file/d/1DB45DgTPnOqZaSrj9gvwe1TdehdkzI8Q/view?usp=sharing)
 
 - ⚡ Fun fact **I want to touch 1500 commits on Github in 2021**
 
