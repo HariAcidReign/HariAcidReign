@@ -26,7 +26,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/hariacidreign" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hariacidreign" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hariharan balasubramanian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hariharan balasubramanian" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hariharan-balasubramanian-2a7607187/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hariharan balasubramanian" height="30" width="40" /></a>
 <a href="https://instagram.com/harikaapi_right" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="harikaapi_right" height="30" width="40" /></a>
 <a href="https://medium.com/@hariharan_5525" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hariharan_5525" height="30" width="40" /></a>
 <a href="https://discord.gg/HariAcidReign#3665" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="HariAcidReign#3665" height="30" width="40" /></a>
