@@ -11,11 +11,13 @@
 
 - 🌱 I’m currently learning **AWS, NextJS, Gatsby, GraphQL, WebGL, Grinding DSA on <a href = "https://www.interviewbit.com/profile/HariAcidReign123">InterviewBit</a>**
 
-- 👯 I’m looking to collaborate on [Helping Hand](https://github.com/HariAcidReign/HelpingHand)
+- 👯 I’m looking to collaborate on [Kanbanize](https://github.com/Team-ThreatLevelMidnight/Kanbanize). Check out the **Future Roadmap** in the readme 💡
+
+- 🤝 I’m looking for help with [JavaScript A-Z Notes](https://github.com/HariAcidReign/JavaScript-A-Z-Notes). Feel free to add your notes there 🧠📖
 
 - 👨‍💻 Checkout my gorgeous (no, really 😂) [portfolio site ](https://hariacidreign.github.io/)
 
-- 💬 Ask me about **React, JavaScript, Keras, Tensorflow**
+- 💬 Ask me about **React, JavaScript, Keras, Tensorflow, and DSA**
 
 - 📫 How to reach me **haran465@gmail.com**
 
