@@ -17,6 +17,8 @@
 
 - 👨‍💻 Checkout my gorgeous (no, really 😂) [portfolio site ](https://hariacidreign.github.io/)
 
+- 🤸 Currently doing the 30 day DSA challenge. Checkout my [DSA Repository (A-Z) ](https://github.com/HariAcidReign/SDE-Sheet-Solutions) and my [Leetcode ](https://leetcode.com/haran465/)
+
 - 💬 Ask me about **React, JavaScript, Keras, Tensorflow, and DSA**
 
 - 📫 How to reach me **haran465@gmail.com**
