@@ -6,7 +6,7 @@
   <img src="https://media2.giphy.com/media/b9lZgOAZDTO6jEc3wN/giphy.gif" width="250" />
 </p>
 
-- 🔭 I’m currently working on [AutoDoc](https://github.com/HariAcidReign/AutoDoc) and [React Native Elements](https://github.com/react-native-elements)
+- 🔭 I’m currently working on [AutoDoc](https://github.com/HariAcidReign/AutoDoc) and [**React Native Elements**](https://github.com/react-native-elements)
 
 - 🌱 I’m currently learning **AWS, NextJS, Gatsby, GraphQL, WebGL and Grinding DSA on [InterviewBit](https://www.interviewbit.com/profile/HariAcidReign123) and [Leetcode](https://leetcode.com/haran465/)**
 
