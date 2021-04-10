@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [AutoDoc](https://github.com/HariAcidReign/AutoDoc)
 
-- 🌱 I’m currently learning **AWS, NextJS, Gatsby, GraphQL, WebGL, Grinding DSA on <a href = "https://www.interviewbit.com/profile/HariAcidReign123">InterviewBit</a>**
+- 🌱 I’m currently learning **AWS, NextJS, Gatsby, GraphQL, WebGL, pushing code to [React Native Elements](https://github.com/react-native-elements), Grinding DSA on <a href = "https://www.interviewbit.com/profile/HariAcidReign123">InterviewBit</a>**
 
 - 👯 I’m looking to collaborate on [Kanbanize](https://github.com/Team-ThreatLevelMidnight/Kanbanize). Check out the **Future Roadmap** in the readme 💡
 
