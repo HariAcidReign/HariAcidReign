@@ -6,9 +6,9 @@
   <img src="https://media2.giphy.com/media/b9lZgOAZDTO6jEc3wN/giphy.gif" width="250" />
 </p>
 
-- 🔭 I’m currently working on [AutoDoc](https://github.com/HariAcidReign/AutoDoc)
+- 🔭 I’m currently working on [AutoDoc](https://github.com/HariAcidReign/AutoDoc) and [React Native Elements](https://github.com/react-native-elements)
 
-- 🌱 I’m currently learning **AWS, NextJS, Gatsby, GraphQL, WebGL, pushing code to [React Native Elements](https://github.com/react-native-elements), Grinding DSA on <a href = "https://www.interviewbit.com/profile/HariAcidReign123">InterviewBit</a>**
+- 🌱 I’m currently learning **AWS, NextJS, Gatsby, GraphQL, WebGL and Grinding DSA on [InterviewBit](https://www.interviewbit.com/profile/HariAcidReign123) and [Leetcode](https://leetcode.com/haran465/)**
 
 - 👯 I’m looking to collaborate on [Kanbanize](https://github.com/Team-ThreatLevelMidnight/Kanbanize). Check out the **Future Roadmap** in the readme 💡
 
@@ -16,7 +16,7 @@
 
 - 👨‍💻 Checkout my gorgeous (no, really 😂) [portfolio site ](https://hariacidreign.github.io/)
 
-- 🤸 Currently doing the 30 day DSA challenge. Checkout my [DSA Repository (A-Z) ](https://github.com/HariAcidReign/SDE-Sheet-Solutions) and my [Leetcode ](https://leetcode.com/haran465/)
+- 🤸 Currently doing the 30 day DSA challenge. Checkout my [DSA Repository (A-Z) ](https://github.com/HariAcidReign/SDE-Sheet-Solutions)
 
 - 💬 Ask me about **React, JavaScript, Keras, Tensorflow, and DSA**
 
