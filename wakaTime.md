@@ -28,3 +28,5 @@ Sublime Text             0 secs              ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+<img src = "https://gist.githubusercontent.com/Ishaan28malik/dc5bcf690c1cff4b5f08cb5f029e9b3d/raw/9283efbf4c286092799fd985331e883f0693c4b6/AboutMe.gif"  />
