@@ -4,7 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hariacidreign&label=Profile%20views&color=0e75b6&style=plastic" alt="hariacidreign" /> </p>
 <p align="center">
   <img src="https://media2.giphy.com/media/b9lZgOAZDTO6jEc3wN/giphy.gif" width="250" />
-  <img src = "https://gist.githubusercontent.com/Ishaan28malik/dc5bcf690c1cff4b5f08cb5f029e9b3d/raw/9283efbf4c286092799fd985331e883f0693c4b6/AboutMe.gif"  />
 </p>
 
 - 🔭 I’m currently working on [AutoDoc](https://github.com/HariAcidReign/AutoDoc) and [**React Native Elements**](https://github.com/react-native-elements)
