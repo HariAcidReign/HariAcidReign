@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [Kanbanize](https://github.com/Team-ThreatLevelMidnight/Kanbanize). Check out the **Future Roadmap** in the readme 💡
 
-- 🤝 I’m looking for help with [JavaScript A-Z Notes](https://github.com/HariAcidReign/JavaScript-A-Z-Notes). Feel free to add your notes there 🧠📖
+- 🤝 I’m looking for help with [JavaScript A-Z Notes](https://github.com/HariAcidReign/JavaScript-A-Z-Notes) and [DS and ML Resources](https://github.com/HariAcidReign/DS-and-ML-Resources). **First timers very welcome!** Feel free to add your notes there 🧠📖
 
 - 👨‍💻 Checkout my gorgeous (no, really 😂) [portfolio site ](https://hariacidreign.github.io/)
 
