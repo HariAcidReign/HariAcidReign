@@ -26,6 +26,11 @@
 
 - ⚡ Fun fact **I want to touch 1500 commits on Github in 2021**
 
+  ![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=HariAcidReign&show_icons=true&theme=radical)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/hariacidreign" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hariacidreign" height="30" width="40" /></a>
@@ -41,3 +46,4 @@
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
+
