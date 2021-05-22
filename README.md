@@ -59,9 +59,9 @@ Amrita-Quizzes           2 mins              ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</p>
+</p> -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
