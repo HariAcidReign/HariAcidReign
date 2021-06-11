@@ -58,7 +58,7 @@ Amrita-Quizzes           2 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 10/06/2021
+ Last Updated on 11/06/2021
 <!--END_SECTION:waka-->
 <!-- <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
