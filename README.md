@@ -51,7 +51,7 @@ Uptone-Frontend-Developme2 hrs 22 mins       ███████████�
 ```
 
 
- Last Updated on 14/07/2021
+ Last Updated on 15/07/2021
 <!--END_SECTION:waka-->
 <!-- <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
