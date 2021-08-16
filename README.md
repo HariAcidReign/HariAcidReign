@@ -43,15 +43,15 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               48 mins             █████████████████████████   100.0%
+TypeScript               2 hrs 14 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Uptone-Frontend-Developme48 mins             █████████████████████████   100.0%
+Uptone-Frontend-Developme2 hrs 14 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 15/08/2021
+ Last Updated on 16/08/2021
 <!--END_SECTION:waka-->
 <!-- <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
