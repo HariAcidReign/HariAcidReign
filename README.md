@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with [JavaScript A-Z Notes](https://github.com/HariAcidReign/JavaScript-A-Z-Notes), [Striver SDE Sheets (DSA) Resources](https://github.com/Leet-Us-Code/Striver-Sheets-Resources) , and [DS and ML Resources](https://github.com/HariAcidReign/DS-and-ML-Resources). **First timers very welcome!** Feel free to add your notes and codes there 🧠📖
 
-- 👨‍💻 Checkout my gorgeous (no, really 😂) [portfolio site ](https://hariacidreign.github.io/)
+- 👨‍💻 Checkout my gorgeous (no, really 😂) [portfolio site ](https://hariacidreign.github.io/) [Update: Site broken, will fix soon :P]
 
 - 🤸 Currently doing a **LOT** of Data Structures & Algorithms. Checkout my [DSA Practise Repo](https://github.com/Leet-Us-Code/DSA-Practice)
 
