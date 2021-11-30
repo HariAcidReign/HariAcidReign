@@ -28,13 +28,13 @@
 
   ![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=HariAcidReign&show_icons=true&theme=radical)
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    75 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.66% 
-🌆 Daytime    164 commits    ████████░░░░░░░░░░░░░░░░░   34.24% 
+🌆 Daytime    165 commits    ████████░░░░░░░░░░░░░░░░░   34.45% 
 🌃 Evening    182 commits    █████████░░░░░░░░░░░░░░░░   38.0% 
-🌙 Night      58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.11%
+🌙 Night      57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.9%
 
 ```
 
@@ -54,7 +54,7 @@ Charity-Water Project    4 hrs 36 mins       ███████████�
 ```
 
 
- Last Updated on 29/11/2021
+ Last Updated on 30/11/2021
 <!--END_SECTION:waka-->
 <!-- <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
