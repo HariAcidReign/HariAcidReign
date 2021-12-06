@@ -54,7 +54,7 @@ Charity-Water Project    4 hrs 36 mins       ███████████�
 ```
 
 
- Last Updated on 05/12/2021
+ Last Updated on 06/12/2021
 <!--END_SECTION:waka-->
 <!-- <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
