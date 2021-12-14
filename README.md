@@ -28,8 +28,6 @@
 
   ![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=HariAcidReign&show_icons=true&theme=radical)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%201%20min-blue)
-
 **I'm an Early 🐤** 
 
 ```text
