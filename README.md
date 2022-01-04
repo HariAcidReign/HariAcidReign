@@ -1,7 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Hariharan</h1>
 <h3 align="center">A JavaScript fan ❤️ | MERN stack Developer 💻 | Loves React Native & Expo ⚛️ | OpenSourcer ✅</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hariacidreign&label=Profile%20views&color=0e75b6&style=plastic" alt="hariacidreign" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=hariacidreign&label=Profile%20views&color=0e75b6&style=plastic" alt="hariacidreign" />
+  <img src="https://wakatime.com/badge/user/4242a060-7044-41f8-9632-b1cd0b721ff5.svg" />
+</p>
 <p align="center">
   <img src="https://media2.giphy.com/media/b9lZgOAZDTO6jEc3wN/giphy.gif" width="250" />
 </p>
