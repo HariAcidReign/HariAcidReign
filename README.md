@@ -31,6 +31,8 @@
 
   ![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=HariAcidReign&show_icons=true&theme=radical)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%2033%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -56,7 +58,7 @@ frontend                 1 hr 46 mins        ███████████�
 ```
 
 
- Last Updated on 26/01/2022 18:45:34 UTC
+ Last Updated on 27/01/2022 18:44:50 UTC
 <!--END_SECTION:waka-->
 <!-- <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
