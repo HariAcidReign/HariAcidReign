@@ -9,7 +9,7 @@
   <img src="https://media2.giphy.com/media/b9lZgOAZDTO6jEc3wN/giphy.gif" width="250" />
 </p>
 
-- 🔭 Work History: [**React Native Elements**](https://github.com/react-native-elements) ➡️ [**Uptone**](https://www.linkedin.com/company/uptone/) ➡️ **Amazon**
+- 🔭 Work History: [**React Native Elements**](https://github.com/react-native-elements) ➡️ [**Uptone**](https://www.linkedin.com/company/uptone/) ➡️ **Amazon 🚀**
 
 - 🌱 I’m currently learning **AWS, NextJS, Gatsby, GraphQL, Azure and Grinding DSA on [InterviewBit](https://www.interviewbit.com/profile/HariAcidReign123), [Leetcode](https://leetcode.com/haran465/) and [Codeforces](https://codeforces.com/profile/hariacidreign)**
 
