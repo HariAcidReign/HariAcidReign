@@ -17,8 +17,6 @@
 
 - 🤝 I’m looking for help with [JavaScript A-Z Notes](https://github.com/HariAcidReign/JavaScript-A-Z-Notes), [Striver SDE Sheets (DSA) Resources](https://github.com/Leet-Us-Code/Striver-Sheets-Resources) , and [DS and ML Resources](https://github.com/HariAcidReign/DS-and-ML-Resources). **First timers very welcome!** Feel free to add your notes and codes there 🧠📖
 
-- 👨‍💻 Checkout my gorgeous (no, really 😂) [portfolio site ](https://hariacidreign.github.io/) [Update: Site broken, will fix soon :P]
-
 - 🤸 Currently doing a **LOT** of Data Structures & Algorithms. Checkout my [DSA Practise Repo](https://github.com/Leet-Us-Code/DSA-Practice)
 
 - 💬 Ask me about **React, JavaScript, Keras, Tensorflow, and DSA**
@@ -29,7 +27,6 @@
 
 - ⚡ Fun fact **I want to touch 1500 commits on Github in 2021**
 
-  ![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=HariAcidReign&show_icons=true&theme=radical)
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
